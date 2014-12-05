@@ -1,0 +1,144 @@
+/*main.css*/
+
+
+/*
+ * report.html内に使われているCSSである。
+ * index.html内の【最近の活動情報】の下にも反映されている。
+ */
+
+/*それぞれの活動の記事の高さ指定など*/
+div.article{
+  height:200px;
+  position:relative;
+  clear: both;
+}
+
+
+/*活動の題名に適応*/
+h3.report-subject{
+  margin-top: 0.2em;
+  margin-bottom: 0.0em;
+  text-align: left;
+  padding-top: 3px;
+  padding-left: 1px;
+/*  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #881813;*/
+  font-size: 1.6em;
+/*  color: #ff0000;  */
+  float: left;
+}
+
+/*幅調整のため暫定で作ったやつ*/
+h3.report-subject2{
+  margin-top: 0.0em;
+  margin-bottom: 0.5em;
+  text-align: left;
+  padding-top: 3px;
+  padding-left: 1px;
+/*  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #881813;*/
+  font-size: 1.6em;
+/*  color: #ff0000;  */
+  float: left;
+}
+
+/*題名横の日付に適用*/
+h3.report-date{
+  margin-top: 0.4em;
+  margin-bottom: 0.8em;
+  text-align: left;
+  padding-top: 11px;
+  padding-left: 1px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #881813;
+  font-size: 1.2em;
+  color: #000000;
+  text-align: right;
+  }
+
+/*左寄せ写真用*/
+span.info-photo-left{
+  position:relative;
+  clear: left;
+  padding-right:20px;
+  padding-left:5px;
+  padding-bottom:2px;
+  float: left;
+}
+
+/*右寄せ写真用*/
+span.info-photo-right{
+  position:relative;
+  clear: right;
+  padding-right:5px;
+  padding-left:20px;
+  padding-bottom:2px;
+  float: right;
+}
+
+/*記事本文の高さ等指定*/
+.report-text{
+  display:table;
+  height:120px;
+}
+/*記事本文を中央に配置*/
+.report-text p{
+    display:table-cell;
+    vertical-align:middle;
+    line-height:1.5em;
+}
+/*リンクのプロパティ*/
+a.report:link {
+    color: #ff0000;
+    text-decoration: none;
+}
+a.report:visited {
+    color: #ff0000;
+    text-decoration: none;
+}
+a.report:hover {
+    color: #ff9191;
+    text-decoration: none;
+}
+a.report:active {
+    color: #ff9191;
+    text-decoration: none;
+}
+
+
+
+/*
+ * 詳細レポート内に使われているCSSである。
+ */
+
+.in-report-content{
+  width:700px;
+  margin:30px auto auto 10%;
+  padding:1px 60px 10px 45px;
+}
+.in-report-content h2{
+  margin:60px auto 45px 0.5em;
+  font-style:italic;
+}
+
+.in-report-content h4{
+  margin:50px auto 15px 5px;
+}  
+
+.in-report-content p{
+  margin:5px;
+  line-height:160%
+}
+
+div .timetable{
+  margin:auto auto auto 20px;
+}  
+
+dt {
+float: left;
+width: 6em;
+}
+
