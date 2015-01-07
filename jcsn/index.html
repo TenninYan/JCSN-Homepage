@@ -12,6 +12,7 @@
 <link rel="stylesheet" href="main_9Ba_2c.css" type="text/css" id="hpbmain">
 <link rel="stylesheet" href="user.css" type="text/css" id="hpbuser">
 <link rel="stylesheet" href="main.css" type="text/css" id="main">
+<script src="js/bsn.js"></script>
 </head>
 <body id="hpb-template-09-02a-01" class="hpb-layoutset-01">
 <div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
@@ -31,14 +32,65 @@
       <!-- page title -->
       <div id="hpb-title" class="hpb-top-image">
         <!-- <h2 style="background&#45;image : url(top_mainimg.png);">JCSN</h2> -->
-        <div style="height:180px; width:300px; background:black; padding-top:60px; float:left;" align="center"><font size="+0.5" color="#ffffff">　JCSNは、<br>日中の学生によるネットワーク構築と中国の政治経済への知見を深め、<br>現状を体感することを目的として活動しています。</font>
+        <!--  -->
+        <div style="height:180px; width:300px; background:black; padding-top:80px; float:left;" align="center"><font size="+0.5" color="#ffffff">　JCSNは、<br>日中の学生によるネットワーク構築と中国の政治経済への知見を深め、<br>現状を体感することを目的として活動しています。</font>
         </div>
-        <div style="height:180px; width:550px; background:black; padding-top:10px; float:left;" align="center">
-          <img src="image/2015toppage1.jpg" width="400px">
+
+      <div>
+        <div style="height:180px; width:400px; background:black; padding-top:10px; float:right; position:absolute; top:0px; left:400px;" align="center" id="cf1">
+          <img src="image/2015toppage1.jpg" name="toppic" width="400px">
           <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>復旦大学でのシンポジウム後に校庭にて</font></p>
         </div>
+        <div style="height:180px; width:400px; background:black; padding-top:10px; float:right; position:absolute; top:0px; left:400px;" align="center" id="cf2">
+          <img src="image/2015toppage2.jpg" name="toppic" width="400px">
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>上海の観光名所外灘にて</font></p>
+        </div>
+        <div style="height:180px; width:400px; background:black; padding-top:10px; float:right; position:absolute; top:0px; left:400px;" align="center" id="cf3">
+          <img src="image/2015toppage3.jpg" name="toppic" width="400px">
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>浙江大学でのシンポジウム前に図書館にて</font></p>
+        </div>
+        <div style="height:180px; width:400px; background:black; padding-top:10px; float:right; position:absolute; top:0px; left:400px;" align="center" id="cf4">
+          <img src="image/2015toppage4.jpg" name="toppic" width="400px">
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>国有企業訪問</font></p>
+        </div>
+        <div style="height:180px; width:400px; background:black; padding-top:10px; float:right; position:absolute; top:0px; left:400px;" align="center" id="cf5">
+          <img src="image/2015toppage5.jpg" name="toppic" width="400px">
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>国有企業の作業現場視察</font></p>
+        </div>
+        <div style="height:180px; width:400px; background:black; padding-top:10px; float:right; position:absolute; top:0px; left:400px;" align="center" id="cf6">
+          <img src="image/2015toppage6.jpg" name="toppic" width="400px">
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>杭州の観光名所西湖にて</font></p>
+        </div>
+      </div>  
       </div>
       <!-- page title end --><!-- main -->
+
+        <script type="text/javascript">
+          var cf = new Crossfader( new Array('cf1','cf2','cf3','cf4','cf5','cf6'), 2000, 2000 );
+        </script>  
+
+        <!-- <div style="height:180px; width:550px; background:black; padding&#45;top:10px; float:left;" align="center"> -->
+        <!--   <img src="image/2015toppage1.jpg" name="toppic" width="400px"> -->
+        <!--   <p style="clear:both; text&#45;align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>復旦大学でのシンポジウム後に校庭にて</font></p> -->
+        <!--  -->
+        <!--   <script> -->
+        <!--     img = new Array("image/2015toppage1.jpg","image/2015toppage2.jpg"); -->
+        <!--     count = &#45;1; -->
+        <!--     imgTimer(); -->
+        <!--  -->
+        <!--     function imgTimer() { -->
+        <!--       //画像番号 -->
+        <!--       count++;  -->
+        <!--         //画像の枚数確認 -->
+        <!--         if (count == img.length) count = 0;  -->
+        <!--           //画像出力 -->
+        <!--             document.toppic.src = img[count];  -->
+        <!--             //次のタイマー呼びだし -->
+        <!--             setTimeout("imgTimer()",2500);  -->
+        <!--     } -->
+        <!--   </script> -->
+        <!--  -->
+        <!-- </div> -->
       <div id="hpb-main">
         <!-- toppage -->
         <div id="toppage">
