@@ -13,7 +13,22 @@ div.article{
   clear: both;
 }
 
+div.pic-left{
+  height:200px;
+  position:relative;
+  float:left;
+  padding:10px 40px;
+}
 
+div.pic-right{
+  height:200px;
+  position:relative;
+  padding:10px 0px;
+}
+
+div.text-mid{
+  text-align:center;  
+}
 /*Šˆ“®‚Ì‘è–¼‚É“K‰ž*/
 h3.report-subject{
   margin-top: 0.2em;
