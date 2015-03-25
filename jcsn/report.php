@@ -552,18 +552,9 @@
         <!-- main end -->
       </div>
       <!-- wrapper end --><!-- navi -->
-      <div id="hpb-nav" style="z-index : 1;">
-        <h3 class="hpb-c-index">contents</h3>
-        <ul>
-          <li id="nav-toppage"><a href="http://www.npoprjc.jp/jcsn/index.html"><span class="ja">トップページ</span><span class="en">top&nbsp;page</span></a>
-          <li id="nav-profile"><a href="http://www.npoprjc.jp/jcsn/profile.html"><span class="ja">プロフィール</span><span class="en">profile</span></a>
-          <li><a href="http://www.npoprjc.jp/jcsn/OBOG.html"><span class="ja">OB・OG会</span><span class="en">OB・OG</span></a>
-          <li id="nav-reoprt"><a href="http://www.npoprjc.jp/jcsn/report.html"><span class="ja">活動報告</span><span class="en">report</span></a>
-          <li id="nav-information"><a href="http://www.npoprjc.jp/jcsn/report1.html"><span class="ja">協賛企業</span><span class="en">sponsor</span>　　</a>
-          <li id="nav-information"><a href="http://www.npoprjc.jp/jcsn/company.html"><span class="ja">協力企業</span><span class="en">cooperation</span>　　</a>
-          <li id="nav-information"><a href="http://www.npoprjc.jp/jcsn/information.html"><span class="ja">アクセス</span><span class="en">access</span>　　</a>
-        </ul>
-      </div>
+      <?php
+        include 'navi.html';
+      ?>
       <!-- navi end --><!-- aside -->
       <div id="hpb-aside">
         <div id="banner">
