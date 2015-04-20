@@ -334,68 +334,68 @@
 
 
         <div class="article"><h3 class="report-subject"><a href="newpage27.html" class="report">JCSN 第一回チャイナタウンの旅＠池袋</a></h3><h3 class="report-date">2014年3月6日</h3>
-        <div class="info-photo"><a href="http://www.npoprjc.jp/jcsn/newpage27.html"><img src="983464854273.jpg" width="200" border="0" class="right"></a></div>
+        <div class="info-photo"><a href="newpage27.html"><img src="983464854273.jpg" width="200" border="0" class="right"></a></div>
         <p style="text-align : left;" align="left"><b><font face="メイリオ"><br>
             ●3/6にチャイナタウンの旅＠池袋が開催されました。チャイナタウンといえば元町中華街をイメージしますが、実はそちらは日本人向けにアレンジされた中国です。一方、池袋の方は中国人がいく中華街であるので、実際の中国に近いです！そんな池袋を中国からの留学生4人の引率で回って来ました。</font></b><br>
-        <a href="http://www.npoprjc.jp/jcsn/newpage27.html"><font color="#990000">☛詳細レポート</font></a><font color="#990000"></font></p></div>
+        <a href="newpage27.html"><font color="#990000">☛詳細レポート</font></a><font color="#990000"></font></p></div>
 
 
-        <div class="article"><h3 class="report-subject"><a href="http://www.npoprjc.jp/jcsn/newpage26.html" class="report">【第三回 頑張れ福島！頑張れ日中！】への参加</a></h3><h3 class="report-date">2014年2月14日~15日</h3>
-        <span class="info-photo-left"><a href="http://www.npoprjc.jp/jcsn/newpage26.html"><img src="todai.jpg" width="200"  border="0" class="left"></a></span>
+        <div class="article"><h3 class="report-subject"><a href="newpage26.html" class="report">【第三回 頑張れ福島！頑張れ日中！】への参加</a></h3><h3 class="report-date">2014年2月14日~15日</h3>
+        <span class="info-photo-left"><a href="newpage26.html"><img src="todai.jpg" width="200"  border="0" class="left"></a></span>
         <b><font face="メイリオ"><br>●2月14・15日についに【第三回　頑張れ福島！頑張れ日中！】
             が行われました。<br>
             　両日とも大雪に見舞われましたが、その中31名の中国の学生がお越しくださり、日本にいる留学生・日本人大学生など約20名近くの計50名以上で、1日目の交流会や2日目の東京観光が行われ、とても有意義なものになりました。</font></b><br>
-        <a href="http://www.npoprjc.jp/jcsn/newpage26.html"><font color="#990000">☛詳細レポート</font></a><font color="#990000"></font></div>
+        <a href="newpage26.html"><font color="#990000">☛詳細レポート</font></a><font color="#990000"></font></div>
 
 
-        <div class="article"><h3 class="report-subject"><a href="http://www.npoprjc.jp/jcsn/newpage25.html" class="report">JCSN 第三回日中台映画交流会</a></h3><h3 class="report-date">2014年2月1日</h3>
-        <div class="info-photo"><a href="http://www.npoprjc.jp/jcsn/newpage14.html"><img src="80798.jpg" width="227" alt="活動報告写真" class="right" border="0" ></a></div><br>
+        <div class="article"><h3 class="report-subject"><a href="newpage25.html" class="report">JCSN 第三回日中台映画交流会</a></h3><h3 class="report-date">2014年2月1日</h3>
+        <div class="info-photo"><a href="newpage14.html"><img src="80798.jpg" width="227" alt="活動報告写真" class="right" border="0" ></a></div><br>
         　ＪＣＳＮの定期活動である映画交流会が開かれました。今回は台湾映画「台北の朝、僕は恋をする」を見ました。台湾らしいゆったりしたラブコメディーでした。<br>
         映画鑑賞後は、中国人留学生と軽食を取りながら「中国では○○を食べるんだよ！」等を話して盛り上がりました。<br>
-        <a href="http://www.npoprjc.jp/jcsn/newpage25.html"><font color="#990000">☛詳細レポート</font></a><font color="#990000"></font></div>
+        <a href="newpage25.html"><font color="#990000">☛詳細レポート</font></a><font color="#990000"></font></div>
 
 
-        <div class="article"  style="height:250px;"><h3 class="report-subject"><a href="http://www.npoprjc.jp/jcsn/newpage14.html" class="report">JCSN上海学生交流会報告会</a></h3><h3 class="report-date">2013年12月14日</h3>
-          <span class="info-photo-left"><a href="http://www.npoprjc.jp/jcsn/newpage14.html"><img src="DSCN0025.jpg" width="227" height="169" alt="活動報告写真" class="left"></a></span>
-        上海交流会の締めくくりの活動として、参加学生全員による報告会が行われました。上海でのシンポジウムに向け、日本側メンバーは半年以上前から勉強会・ミーティングを重ね、また事前に中国側メンバーに自己紹介冊子など送るなどして当日のシンポジウムが充実したものとなるように準備をしてきました。その甲斐あって、上海交流会は大変有意義なものとなりました。復旦大学の学生と社会問題（教育・少子高齢化・環境エネルギー）について意見を交わしたシンポジウム後に感じた事は、今後日中が相互に協力することの必要性と可能性でした。これをスタートとして今後の活動へと繋げていきたいと思っています。　　<font color="#990000"><a href="http://www.npoprjc.jp/jcsn/newpage14.html">☛詳細レポート</a></font></div>
+        <div class="article"  style="height:250px;"><h3 class="report-subject"><a href="newpage14.html" class="report">JCSN上海学生交流会報告会</a></h3><h3 class="report-date">2013年12月14日</h3>
+          <span class="info-photo-left"><a href="newpage14.html"><img src="DSCN0025.jpg" width="227" height="169" alt="活動報告写真" class="left"></a></span>
+        上海交流会の締めくくりの活動として、参加学生全員による報告会が行われました。上海でのシンポジウムに向け、日本側メンバーは半年以上前から勉強会・ミーティングを重ね、また事前に中国側メンバーに自己紹介冊子など送るなどして当日のシンポジウムが充実したものとなるように準備をしてきました。その甲斐あって、上海交流会は大変有意義なものとなりました。復旦大学の学生と社会問題（教育・少子高齢化・環境エネルギー）について意見を交わしたシンポジウム後に感じた事は、今後日中が相互に協力することの必要性と可能性でした。これをスタートとして今後の活動へと繋げていきたいと思っています。　　<font color="#990000"><a href="newpage14.html">☛詳細レポート</a></font></div>
 
 
-        <div class="article" style="height:250px;"><h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage17.html" class="report">JCSN上海学生交流会</a></h3><h3 class="report-date">2013年11月23日～11月26日</h3>
+        <div class="article" style="height:250px;"><h3 class="report-subject2"><a href="newpage17.html" class="report">JCSN上海学生交流会</a></h3><h3 class="report-date">2013年11月23日～11月26日</h3>
         <img src="FB_20131124_IMG_3804_32.jpg" width="227" height="169" alt="活動報告写真" class="right">
         待望の「第一回JCSN上海学生交流会」が開催されました！！<br>
-        １日目は日系企業との懇談としてHMA建築設計事務所に伺い、貴社中国における事業内容のご説明と、<SPAN><SPAN class="il">東</SPAN></SPAN>社長の建築の見学をさせていただきました。２日目はメインプログラムの「シンポジウム」です。事前に日本側・中国側で参加者の写真つき紹介データを交換したお蔭で当日は参加者が直ぐに打ち解けました。①教育問題②少子高齢化③環境・エネルギーの３テーマがそれぞれ２つに分かれ、６グループで議論を交わしました。後半は各グループごとの発表後、質疑応答の時間は足りなくなるほど充実した活動となりました。シンポジウム後の懇親会も当然のこと、かなりの盛り上がりでした♪　　　<a href="http://www.npoprjc.jp/jcsn/newpage17.html"><font color="#990000">☛詳細レポート</font></a></div>
+        １日目は日系企業との懇談としてHMA建築設計事務所に伺い、貴社中国における事業内容のご説明と、<SPAN><SPAN class="il">東</SPAN></SPAN>社長の建築の見学をさせていただきました。２日目はメインプログラムの「シンポジウム」です。事前に日本側・中国側で参加者の写真つき紹介データを交換したお蔭で当日は参加者が直ぐに打ち解けました。①教育問題②少子高齢化③環境・エネルギーの３テーマがそれぞれ２つに分かれ、６グループで議論を交わしました。後半は各グループごとの発表後、質疑応答の時間は足りなくなるほど充実した活動となりました。シンポジウム後の懇親会も当然のこと、かなりの盛り上がりでした♪　　　<a href="newpage17.html"><font color="#990000">☛詳細レポート</font></a></div>
 
 
-        <div class="article" style="height:250px;"><h3 class="report-subject"><a href="http://www.npoprjc.jp/jcsn/newpage16.html" class="report">JCSN上海学生交流会　事前ミーティング</a></h3><h3 class="report-date">2013年10月26日</h3>
-<a href="http://www.npoprjc.jp/jcsn/newpage16.html"><img src="SANY0090.JPG" width="227" height="169" alt="活動報告写真" class="left"></a>
-<font face="メイリオ">　台風27号の接近が心配されましたが、無事10月26日(土)にJCSN上海学生交流会事前ミーティングを開催することが出来ました。交流会本番前の最終ミーティングということもあり、参加者の大半が顔を合わせ、当日行われるシンポジウムの論点の詳細等を全体で検討しました。また中国で交流する学生に向けてグループごとビデオメッセージを中国語や英語で撮影し、より緊密な交流が出来るよう自己紹介パンフレットの作成も決まりました。本番に向けて着々と準備が整ってきています！早いもので上海交流会まで残り一か月を切りました。記念すべき第一回目を成功させられるよう参加者全員で準備を頑張っていきます！</font><a href="http://www.npoprjc.jp/jcsn/newpage16.html">☛詳細レポート</a></div>
-
-
-
+        <div class="article" style="height:250px;"><h3 class="report-subject"><a href="newpage16.html" class="report">JCSN上海学生交流会　事前ミーティング</a></h3><h3 class="report-date">2013年10月26日</h3>
+<a href="newpage16.html"><img src="SANY0090.JPG" width="227" height="169" alt="活動報告写真" class="left"></a>
+<font face="メイリオ">　台風27号の接近が心配されましたが、無事10月26日(土)にJCSN上海学生交流会事前ミーティングを開催することが出来ました。交流会本番前の最終ミーティングということもあり、参加者の大半が顔を合わせ、当日行われるシンポジウムの論点の詳細等を全体で検討しました。また中国で交流する学生に向けてグループごとビデオメッセージを中国語や英語で撮影し、より緊密な交流が出来るよう自己紹介パンフレットの作成も決まりました。本番に向けて着々と準備が整ってきています！早いもので上海交流会まで残り一か月を切りました。記念すべき第一回目を成功させられるよう参加者全員で準備を頑張っていきます！</font><a href="newpage16.html">☛詳細レポート</a></div>
 
 
 
 
-        <div class="article" style="height:220px;"><h3 class="report-subject"><a href="http://www.npoprjc.jp/jcsn/newpage15.html" class="report">JCSN上海学生交流会　ミーティング 2</a></h3><h3 class="report-date">2013年9月29日</h3>
-        <a href="http://www.npoprjc.jp/jcsn/newpage13.html"><img src="JCSN.jpg" width="261" height="118" alt="活動報告写真" class="right"></a>
+
+
+
+        <div class="article" style="height:220px;"><h3 class="report-subject"><a href="newpage15.html" class="report">JCSN上海学生交流会　ミーティング 2</a></h3><h3 class="report-date">2013年9月29日</h3>
+        <a href="newpage13.html"><img src="JCSN.jpg" width="261" height="118" alt="活動報告写真" class="right"></a>
         <p style="margin-bottom : 0;"><br>
-        <font face="メイリオ">新たに2人の参加者を迎えて、総勢19人の日本側学生で、上海交流会に臨むこととなりました！！この日は、上海交流会に向けてグループ分けが発表されました。上海交流会に向けて、シンポジウムの準備はこのグループが中心となって進めていきます。<o:p></o:p>中国の社会問題担当の環境・エネルギー、少子高齢化、教育格差、そしてワークショップの4グループに分かれてそれぞれ資料を集めてミーティングを開いていくことで万全の準備で臨みます！…　<o:p></o:p></font><a href="http://www.npoprjc.jp/jcsn/newpage15.html">☛詳細レポート</a><br>
+        <font face="メイリオ">新たに2人の参加者を迎えて、総勢19人の日本側学生で、上海交流会に臨むこととなりました！！この日は、上海交流会に向けてグループ分けが発表されました。上海交流会に向けて、シンポジウムの準備はこのグループが中心となって進めていきます。<o:p></o:p>中国の社会問題担当の環境・エネルギー、少子高齢化、教育格差、そしてワークショップの4グループに分かれてそれぞれ資料を集めてミーティングを開いていくことで万全の準備で臨みます！…　<o:p></o:p></font><a href="newpage15.html">☛詳細レポート</a><br>
         <p style="clear:right; float:right; margin-top:0; line-height:0.5; margin-bottom:0;"><br>↑JCSN会員（美大の学生）がデザインしました！</p></div>
 
 
-        <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage13.html" class="report">JCSN上海学生交流会　ミーティング 1</a></h3><h3 class="report-date">2013年8月16日</h3>
-        <a href="http://www.npoprjc.jp/jcsn/newpage13.html"><img src="SANY0062.JPG" width="227" height="169" alt="活動報告写真" class="left"></a>
+        <h3 class="report-subject2"><a href="newpage13.html" class="report">JCSN上海学生交流会　ミーティング 1</a></h3><h3 class="report-date">2013年8月16日</h3>
+        <a href="newpage13.html"><img src="SANY0062.JPG" width="227" height="169" alt="活動報告写真" class="left"></a>
         <p><br>
         <font face="メイリオ">８月１６日に上海学生交流会参加者で</font><font face="メイリオ">「上海交流会シンポジウムテーマ」等を決めるミーティングを行いました。<o:p></o:p></font><br>
         <font face="メイリオ">当日のシンポジウムの時間は10:00-16:00（予定）となっているため、<br>
           この限られた時間を有効に使い、充実した内容にするために参加者同士で意見を出し合いました。当初は１５時から１８時までの予定だったのですが、１９時まで延長することになり、長時間で疲れましたが、和気あいあいと交流会に向け意見交換が出来、有意義なミーティングとなりました…</font><span
           lang=EN-US style='font-family:"Arial","sans-serif";mso-fareast-font-family:
           "Times New Roman";color:#222222;mso-fareast-language:JA'><o:p></o:p></span><font face="メイリオ"><a
-            name="_GoBack"></a></font><a href="http://www.npoprjc.jp/jcsn/newpage13.html">☛詳細レポート</a><br><br><br>
+            name="_GoBack"></a></font><a href="newpage13.html">☛詳細レポート</a><br><br><br>
 
 
-        <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage12.html" class="report">JCSN　第二回日中台映画交流会</a></h3><h3 class="report-date">2013年8月16日</h3>
-        <a href="http://www.npoprjc.jp/jcsn/newpage12.html"><img src="SANY0059.JPG" width="172" height="128" alt="活動報告写真" class="right"></a>
+        <h3 class="report-subject2"><a href="newpage12.html" class="report">JCSN　第二回日中台映画交流会</a></h3><h3 class="report-date">2013年8月16日</h3>
+        <a href="newpage12.html"><img src="SANY0059.JPG" width="172" height="128" alt="活動報告写真" class="right"></a>
         <p><br>
         <span style='font-family:"ＭＳ ゴシック";mso-bidi-font-family:
           "ＭＳ ゴシック";color:#222222;mso-fareast-language:JA'>７月に行われた第一回映画交流会に引き続き、<br>
@@ -407,48 +407,47 @@
         <span style='font-family:"ＭＳ ゴシック";mso-bidi-font-family:
           "ＭＳ ゴシック";color:#222222;mso-fareast-language:JA'>次回の映画交流会は９月に開催する予定です。みなさんの参加をお待ちしています.<br>
         </span><span style='font-family:"ＭＳ ゴシック";mso-bidi-font-family:
-          "ＭＳ ゴシック";color:#222222;mso-fareast-language:JA'></span><a href="http://www.npoprjc.jp/jcsn/newpage12.html">☛詳細レポート</a><br><br>
+          "ＭＳ ゴシック";color:#222222;mso-fareast-language:JA'></span><a href="newpage12.html">☛詳細レポート</a><br><br>
 
 
-        <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage11.html" class="report">JCSN　第一回日中台映画交流会</a></h3><h3 class="report-date">2013年7月23日</h3>
-        <a href="http://www.npoprjc.jp/jcsn/newpage11.html"><img src="SANY0058.JPG" width="178" height="131" alt="活動報告写真" class="left"></a>
+        <h3 class="report-subject2"><a href="newpage11.html" class="report">JCSN　第一回日中台映画交流会</a></h3><h3 class="report-date">2013年7月23日</h3>
+        <a href="newpage11.html"><img src="SANY0058.JPG" width="178" height="131" alt="活動報告写真" class="left"></a>
         <p><br>
 
         <font face="メイリオ">NPO事務局６階会議室において第一回日中台映画交流会が行われました。<br>上映されたのは台湾映画「言えない秘密」（中国語名「不能説的秘密」）<br>
-          日本人学生・中国人留学生・中国人社会人などたくさんの皆さんにご参加いただき、映画鑑賞後は、軽食をとりながら参加者同士の交流会において活気のある楽しい交流会となりました。このような企画をするのは初めてですが、これからJCSNの定期イベントにしていこうと思っています。次回は８月の下旬に開催する予定です。お楽しみに！！　</font><a href="http://www.npoprjc.jp/jcsn/newpage11.html"><FONT 
+          日本人学生・中国人留学生・中国人社会人などたくさんの皆さんにご参加いただき、映画鑑賞後は、軽食をとりながら参加者同士の交流会において活気のある楽しい交流会となりました。このような企画をするのは初めてですが、これからJCSNの定期イベントにしていこうと思っています。次回は８月の下旬に開催する予定です。お楽しみに！！　</font><a href="newpage11.html"><FONT 
             color=#000000>☛</FONT><FONT color=#e4544e>詳細レポート</FONT></a><BR>
         <br>
 
 
 
-        <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage10.html" class="report">JCSN上海学生交流会　第二回勉強会</a></h3><h3 class="report-date">2013年７月2１日</h3>
-        <a href="http://www.npoprjc.jp/jcsn/newpage10.html"><img src="SANY0051.jpg" width="227" height="169" alt="活動報告写真" class="right"></a>
+        <h3 class="report-subject2"><a href="newpage10.html" class="report">JCSN上海学生交流会　第二回勉強会</a></h3><h3 class="report-date">2013年７月2１日</h3>
+        <a href="newpage10.html"><img src="SANY0051.jpg" width="227" height="169" alt="活動報告写真" class="right"></a>
         <p><br>
 
         <font face="メイリオ">11月の上海学生交流会に向けた「第二回勉強会」が開催されました。<br>
           今回は講師の方々をお招きして、学生からのテーマをもとにパネルディスカッション・対談という形式で行いました。参加学生からの少し突っ込んだ質問に対してご回答いただいたり、また普段聞くことのできない貴重なお話をしていただいたり、とても有意義な活動となりました。<br>
-          11月の交流会では現地の大学生とのシンポジウムがメインプログラムです。参加者の中で上海に留学する学生が中国側代表として中国側のメンバーを募ります。日中両国のメンバー間で日中友好に繋がる有意義な意見交換の場となる事を期待しています！！</font>　　　　<a href="http://www.npoprjc.jp/jcsn/newpage10.html"><font color="#000000">☛</font><font color="#e4544e">詳細レポート</font></a><a href="http://www.npoprjc.jp/jcsn/newpage8.html"><font color="#000000"><br>
-        </font></a>
+          11月の交流会では現地の大学生とのシンポジウムがメインプログラムです。参加者の中で上海に留学する学生が中国側代表として中国側のメンバーを募ります。日中両国のメンバー間で日中友好に繋がる有意義な意見交換の場となる事を期待しています！！</font>　　　　<a href="newpage10.html"><font color="#000000">☛</font><font color="#e4544e">詳細レポート</font></a><br>
 
 
-        <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage8.html" class="report">餃子交流会</a></h3><h3 class="report-date">2013年6月22日</h3>
-        <a href="http://www.npoprjc.jp/jcsn/newpage8.html"><img src="1044818_526186147449003_1443972493_n.jpg" width="227" height="169" alt="活動報告写真" class="left"></a>
+        <h3 class="report-subject2"><a href="newpage8.html" class="report">餃子交流会</a></h3><h3 class="report-date">2013年6月22日</h3>
+        <a href="newpage8.html"><img src="1044818_526186147449003_1443972493_n.jpg" width="227" height="169" alt="活動報告写真" class="left"></a>
         <p><br>
         <font face="メイリオ">今回は、JCSC(日中学生会議)とJCSNによる初の合同イベントとして<br>
           餃子パーティーを開催しました！！<br>
           JCSCの方々の企画の下、餃子づくりのプロの方から本場中国のたれ、調味料、餡など伝統的餃子の製法を教えていただき、普段食べている餃子とは一味違う餃子を堪能しました！<br>
           今後も同じ日中交流団体としてお互い意見を交換しながら、イベントを共有できたら…と思っております。<o:p></o:p><br>
-          JCSCの皆さん、この度は餃子交流会を企画していただき本当にありがとうございました。<o:p></o:p></font>　<a href="http://www.npoprjc.jp/jcsn/newpage8.html"><font color="#000000">☛</font><font color="#e4544e">詳細レポート</font></a><br><br>
+          JCSCの皆さん、この度は餃子交流会を企画していただき本当にありがとうございました。<o:p></o:p></font>　<a href="newpage8.html"><font color="#000000">☛</font><font color="#e4544e">詳細レポート</font></a><br><br>
 
 
-        <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage9.html" class="report">JCSN上海学生交流会　第一回勉強会</a></h3><h3 class="report-date">2013年5月18日</h3>
-        <a href="http://www.npoprjc.jp/jcsn/newpage9.html"><img src="SANY0010-1.jpg" width="227" height="169" alt="活動報告写真" class="right"></a>
+        <h3 class="report-subject2"><a href="newpage9.html" class="report">JCSN上海学生交流会　第一回勉強会</a></h3><h3 class="report-date">2013年5月18日</h3>
+        <a href="newpage9.html"><img src="SANY0010-1.jpg" width="227" height="169" alt="活動報告写真" class="right"></a>
         <p><br>
         <font face="メイリオ">2013年11/23～11/26上海学生交流会に向けた「第一回勉強会」が実行委員</font>会において企画立案され行われました。<br>
         ①政治的な問題(尖閣諸島問題に関して）<br>
         ②社会的な問題(１格差２環境問題３食品安全の問題４少子高齢化 問題）<br>
         という日中交流を語るうえで欠かすことの出来ないテーマをとりあげました。<WBR>皆さんの積極的な活動への参加の下、日中の問題について率直な意見交換の場となり、11月に開催される上海交流会に繋がる学生主体のとても有意義な活動となりました。<br>
-          また、勉強会後には参加者間で「第2回勉強会」を７月に開催することについての話し合いも進み、次回の活動も楽しみです！！<a href="http://www.npoprjc.jp/jcsn/newpage9.html"><font color="#000000">☛</font><font color="#e4544e">詳細レポート</font></a><br>
+          また、勉強会後には参加者間で「第2回勉強会」を７月に開催することについての話し合いも進み、次回の活動も楽しみです！！<a href="newpage9.html"><font color="#000000">☛</font><font color="#e4544e">詳細レポート</font></a><br>
 
 
           <!-- <h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/newpage7.html" class="report">第四回日中学生交流会～餃子パーティー～</a></h3><h3 class="report&#45;date">2013年４月27日</h3> -->
@@ -561,8 +560,8 @@
           <h3 class="hpb-c-index">バナースペース</h3>
           <ul>
             <li><a href="#" id="banner-schedule"><span class="ja">スケジュール</span><span class="en">schedule</span></a>
-            <li><a href="http://www.npoprjc.jp/" id="banner-admission"><span class="ja">入会ご案内</span><span class="en">admission</span></a>
-            <li><a href="http://www.npoprjc.jp/jcsn/admission.html" id="banner-blog"><span class="ja">代表ブログ</span><span class="en">blog</span></a>
+            <li><a href="index.php" id="banner-admission"><span class="ja">入会ご案内</span><span class="en">admission</span></a>
+            <li><a href="admission.html" id="banner-blog"><span class="ja">代表ブログ</span><span class="en">blog</span></a>
           </ul>
         </div>
         <div id="associationinfo">

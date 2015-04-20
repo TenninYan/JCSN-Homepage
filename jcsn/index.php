@@ -90,7 +90,7 @@
 
 
 
-          <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="http://www.npoprjc.jp/jcsn/report.html"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
+          <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="report.html"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
 
 
 <!--ここから-->
@@ -284,9 +284,9 @@
 
  
 
-          <b><a href="http://www.npoprjc.jp/jcsn/report.html"><font color="#881813"><span class="en"></span></font></a></b></p>
+          <b><a href="report.html"><font color="#881813"><span class="en"></span></font></a></b></p>
           <div id="toppage-news">
-            <p><b><font size="+1"><a href="http://www.npoprjc.jp/jcsn/report.html"><font color="#881813" size="+0" style="font-size : 100%;"><span class="en">
+            <p><b><font size="+1"><a href="report.html"><font color="#881813" size="+0" style="font-size : 100%;"><span class="en">
                       ☛過去の活動</span></font></a></font></b><br>
               </p>
             </div>
@@ -302,8 +302,8 @@
           <h3 class="hpb-c-index">バナースペース</h3>
           <ul>
             <!-- <li><a href="#" id="banner&#45;schedule"><span class="ja">スケジュール</span><span class="en">schedule</span></a> -->
-            <li><a href="http://www.npoprjc.jp/" id="banner-admission"><span class="ja">入会ご案内</span><span class="en">admission</span></a>
-            <li><a href="http://www.npoprjc.jp/jcsn/admission.html" id="banner-blog"><span class="ja">代表ブログ</span><span class="en">blog</span></a>
+            <li><a href="index.php" id="banner-admission"><span class="ja">入会ご案内</span><span class="en">admission</span></a>
+            <li><a href="admission.html" id="banner-blog"><span class="ja">代表ブログ</span><span class="en">blog</span></a>
           </ul>
         </div>
         <div id="associationinfo">
