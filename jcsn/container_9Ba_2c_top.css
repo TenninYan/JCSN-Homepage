@@ -40,7 +40,8 @@ img
 
 #hpb-header
 {
-    width : 965px;
+    /* width : 965px; */
+    width : 750px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 0px;
@@ -49,7 +50,7 @@ img
 
 #hpb-inner
 {
-    width: 900px;
+    width: 750px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
@@ -105,7 +106,7 @@ img
 
 #hpb-footer
 {
-    width: 900px;
+    width: 750px;
     height: 128px;
     margin-left: auto;
     margin-right: auto;

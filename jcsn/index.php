@@ -1,6 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="ja">
 <head>
+<!-- <meta name="viewport" content="width=device&#45;width,initial&#45;scale=1.0"> -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
@@ -27,7 +28,7 @@
       <h1>日中学生交流ネットワーク　<font size="-1" style="font-size : 83%;">Japan　China　Student　Network</font></h1>
     </div>
     <div id="hpb-headerLogo"></div>
-    <font size="+1"><b><i><font size="+4" style="font-size : 310%; margin-left:7%;" color="#ffffff">JCSN</font></i></b></font></div>
+    <font size="+1"><b><i><font size="+4" style="font-size : 310%; margin-left:0;" color="#ffffff">JCSN</font></i></b></font></div>
   <!-- header end --><!-- inner -->
   <div id="hpb-inner">
     <!-- wrapper -->
@@ -296,25 +297,25 @@
         </div>
         <!-- main end -->
       
-      <!-- aside -->
-      <div id="hpb-aside">
-        <div id="banner">
-          <h3 class="hpb-c-index">バナースペース</h3>
-          <ul>
-            <!-- <li><a href="#" id="banner&#45;schedule"><span class="ja">スケジュール</span><span class="en">schedule</span></a> -->
-            <li><a href="index.php" id="banner-admission"><span class="ja">入会ご案内</span><span class="en">admission</span></a>
-            <li><a href="admission.html" id="banner-blog"><span class="ja">代表ブログ</span><span class="en">blog</span></a>
-          </ul>
-        </div>
-        <div id="associationinfo">
-          <h3>JCSN(NPO日中交流推進機構）</h3>
-          <p>〒111-0035<br>
-          東京都台東区西浅草3-29-19<br>
-          浙江建設ビル6階</p>
-          <p>TEL 03-5830-3087<br>
-          FAX 03-5830-3089</p>
-        </div>
-      </div>
+      <!-- <!&#45;&#45; aside &#45;&#45;> -->
+      <!-- <div id="hpb&#45;aside"> -->
+      <!--   <div id="banner"> -->
+      <!--     <h3 class="hpb&#45;c&#45;index">バナースペース</h3> -->
+      <!--     <ul> -->
+      <!--       <!&#45;&#45; <li><a href="#" id="banner&#38;#45;schedule"><span class="ja">スケジュール</span><span class="en">schedule</span></a> &#45;&#45;> -->
+      <!--       <li><a href="index.php" id="banner&#45;admission"><span class="ja">入会ご案内</span><span class="en">admission</span></a> -->
+      <!--       <li><a href="admission.html" id="banner&#45;blog"><span class="ja">代表ブログ</span><span class="en">blog</span></a> -->
+      <!--     </ul> -->
+      <!--   </div> -->
+      <!--   <div id="associationinfo"> -->
+      <!--     <h3>JCSN(NPO日中交流推進機構）</h3> -->
+      <!--     <p>〒111&#45;0035<br> -->
+      <!--     東京都台東区西浅草3&#45;29&#45;19<br> -->
+      <!--     浙江建設ビル6階</p> -->
+      <!--     <p>TEL 03&#45;5830&#45;3087<br> -->
+      <!--     FAX 03&#45;5830&#45;3089</p> -->
+      <!--   </div> -->
+      <!-- </div> -->
       <!-- aside end -->
       <!-- navi -->
       
@@ -328,13 +329,9 @@
     　<!-- inner end -->
     
     
-    <!-- footer -->
-    <div id="hpb-footer">
-      <div id="hpb-footerMain">
-        <p>copyright&copy;2012 JCSN&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</p>
-      </div>
-    </div>
-    <!-- footer end -->
+    <?php
+        include("footer.html")
+    ?>
   </div>
   <!-- container end --></body>
   </html>

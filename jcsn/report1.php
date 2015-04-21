@@ -137,11 +137,9 @@ black;mso-style-textfill-fill-alpha:100.0%'></span><a href="http://www.toazu.co.
     <!-- aside end -->
   </div>
   <!-- inner end --><!-- footer -->
-  <div id="hpb-footer">
-    <div id="hpb-footerMain">
-      <p>copyright&copy;2012 JCSN&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</p>
-    </div>
-  </div>
+  <?php
+    include("footer.html");
+?>
   <!-- footer end -->
 </div>
 <!-- container end --></div>

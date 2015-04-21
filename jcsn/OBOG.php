@@ -103,10 +103,9 @@
   </div>
     <!-- aside end -->            
   <!-- inner end --><!-- footer -->
-  <div id="hpb-footer">
-    <div id="hpb-footerMain">
-      <p>copyright&copy;2012 JCSN&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</p>
-    </div>
+  <?php
+    include("footer.html");
+?>
   </div>
   <!-- footer end -->
 </div>

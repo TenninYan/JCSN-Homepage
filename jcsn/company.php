@@ -41,16 +41,6 @@
           <br>
           ●<font size="+1"> <b>（株）トモノカイ </b></font>　　　<a href="http://www.tomonokai.net/e/company.html"><font color="#0000cc">http://www.tomonokai.net/e/company.html</font></a><br>
           <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
           </form>
           <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
         </div>
@@ -69,11 +59,9 @@
     <!-- aside end -->
   </div>
   <!-- inner end --><!-- footer -->
-  <div id="hpb-footer">
-    <div id="hpb-footerMain">
-      <p>copyright&copy;2012 JCSN&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</p>
-    </div>
-  </div>
+  <?php
+    include("footer.html");
+?>
   <!-- footer end -->
 </div>
 <!-- container end --></div>
