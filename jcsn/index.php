@@ -334,7 +334,7 @@
     ?>
 <div id="hpb-footer">
   <!-- <div id="hpb&#45;footerMain"> -->
-<p style="float:right; color:#8A8A8A">今までの訪問者数
+<p style="float:right; color:#8A8A8A">
 <?php
         include_once 'view_counter_class.php';
         $counter = new ViewCounter();
@@ -345,7 +345,7 @@
         echo $count;
 
 ?>
-人
+visited from May 2015
 </p>
   <!-- </div> -->
 </div>
