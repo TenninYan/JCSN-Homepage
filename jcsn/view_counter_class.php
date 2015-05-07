@@ -62,6 +62,7 @@ class ViewCounter
     //データベースのカウントを増やす
     function count_up($id, $num=1){
         $file = $this->db_dir . $id . '_' .md5($this::SALT . $id) . '.log';
+
          
         if(file_exists($file)){
             $count = (int)file_get_contents($file);
