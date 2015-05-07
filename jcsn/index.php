@@ -330,8 +330,25 @@
     
     
     <?php
-        include("footer.html")
+        include("footer.html");
     ?>
+<div id="hpb-footer">
+  <!-- <div id="hpb&#45;footerMain"> -->
+<p style="float:right; color:#8A8A8A">今までの訪問者数
+<?php
+        include_once 'view_counter_class.php';
+        $counter = new ViewCounter();
+        // ページ固有のID
+        $id = 1234;
+        $count = $counter->log( $id );
+
+        echo $count;
+
+?>
+人
+</p>
+  <!-- </div> -->
+</div>
   </div>
   <!-- container end --></body>
   </html>
