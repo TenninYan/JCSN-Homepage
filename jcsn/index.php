@@ -84,9 +84,9 @@
         <div id="toppage">
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
-          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　3/1~3/4に復旦大学と浙江大学から38名あまりの学生が東京にいらっしゃって、<br>
-             　交流会が開かれました。その時の様子が人民網日本のホームページされました。<br>
-             　<a href="http://japan.people.com.cn/n/2015/0305/c35467-26639735.html">☛人民網日本のページ(中国語)</a></b></font><br><br>
+          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　第三回上海杭州交流会の募集を開始しました。<br>
+            今年は11/13~11/17日に開催します。詳細は少々お待ちください。<br>
+             　<a href="http://japan.people.com.cn/n/2015/0305/c35467-26639735.html"></a></b></font><br><br>
           <br>
 
 
