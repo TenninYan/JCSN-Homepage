@@ -345,7 +345,7 @@
         echo $count;
 
 ?>
-visited from May 2015
+ visited from May 2015
 </p>
   <!-- </div> -->
 </div>
