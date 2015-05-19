@@ -84,9 +84,7 @@
         <div id="toppage">
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
-          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　第三回上海杭州交流会の募集を開始しました。今年は11/13~11/17日に開催します。<br>
-            　　詳細は<a href="http://www.tnews.jp/entries/17343?clk_o=104311" target="_blank">トモノカイのページ</a>を御覧ください。<br>
-            　　トモノカイ会員以外でご応募する場合<a href="https://docs.google.com/forms/d/1slSC70Ct914MvPGExIsK4zSs9uWg2tni8yoIiCFffio/viewform" target="_blank">こちら</a>からお願いします。
+          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　第三回上海杭州交流会の募集を終了しました。たくさんの応募ありがとうございました。<br>
              　</b></font><br><br>
           <br>
 
