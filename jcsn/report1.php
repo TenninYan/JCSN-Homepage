@@ -70,56 +70,27 @@ auto;text-align:left;line-height:normal;mso-pagination:widow-orphan"><font face=
           <br>
           <o:p></o:p>代表取締役社長　松本 有</font><br>
           </p>
-          <h3>TOAZU 株式会社　<span style='font-size:18.0pt;
-font-family:Calibri;mso-ascii-font-family:Calibri;mso-fareast-font-family:"ＭＳ Ｐゴシック";
-mso-bidi-font-family:+mn-cs;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-minor-fareast;mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;
-mso-font-kerning:12.0pt;language:en-US;text-combine:letters;mso-style-textfill-type:
-solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
-black;mso-style-textfill-fill-alpha:100.0%'></span><a href="http://www.toazu.co.jp" target="_blank">www.toazu.co.jp</a></h3>
-          <img src="sign.png" width="259" height="178" alt="活動報告写真" class="left">
-          <p><font face="メイリオ"><b>【会社概要】</b><br>
-          所在地: 東京都千代田区西神田2ー7ー4<br>
-          設立: 2006年1月<br>
-          業種: 商業施設デザイン、設計、施工、プロジェクトマネジメント <br>
-          <b>【PR】</b><br>
-          当社は専門特化したプロ集団です。<br>
-          その人の持つ専門知識に、さらに付帯・関連する事を学ぶことで<WBR>一人の持てる能力を最大限活かしています。会社は人で成り立っているという基本を忘れることなく、<WBR>互いが切磋琢磨する環境です。<br>
-          厳しい環境ではあるが、<WBR>それだけにクライアントからの信頼を得られています。<br>
-          <br>
-          <b><br>
-          【JCSN学生へのメッセージ】</b><br>
-          挑戦することを恐れず、怯まず進む強い心。<br>
-          他人を受け入れ、自らを律する謙虚な心。<br>
-          目先に捉われず、モノ事を俯瞰できる広い視野。<br>
-          <br>
-          時間は無限に流れている。<br>
-          しかし私たちに与えられた時間は有限である。<br>
-          だから今日を懸命に生き、明日への活力として欲しい。<br>
-          <br>
-          JCSNに参加しこの機会に、多くの人、国、<WBR>モノから一つでも学び得て、大切な人生の糧にして欲しい。<br>
-          <br>
-          代表取締役　時数　賢司<br>
-          </font><br>
-          <br>
-          <p><br>
-          <br>
-          <font color="#990000">以下の企業様は、NPO日中交流推進機構の法人会員の皆様です。（ご入会順・敬称略）<br>
-          法人会費の一部はJCSNの活動費に使わせていただいております。</font><br>
-          <br>
-          宇部興産(株)　　　　　　<font color="#0000cc"><a href="http://www.ube-ind.co.jp/japanese/index.htm">http://www.ube-ind.co.jp/japanese/index.htm</a></font>　　<br>
-          旭興(株)　　　　　　　　<a href="http://www.seko.co.jp/">http://www.seko.co.jp/</a>　　　<br>
-          芝大門法律事務所　　　　<br>
-          大建工業(株)　　　　　　 <a href="http://www.daiken.jp/">http://www.daiken.jp/</a>　　　<br>
-          東リ(株)　　　 　　　　　<a href="http://www.toli.co.jp/">http://www.toli.co.jp/</a>　　　　　　　　　<br>
-          (株)SHY 　　　　　　　　<a href="http://www.koizumi-lt.co.jp/index.html">http://www.koizumi-lt.co.jp/index.html</a><br>
-          (株)アイデック 　　　　　<a href="http://www.aidec.jp/main.jsp">http://www.aidec.jp/main.jsp</a><br>
-          旭中部資材(株)　　　　　 <a href="http://www.asachunet.co.jp/" target="_blank">http://www.asachunet.co.jp/</a><a href="http://www.toazu.co.jp/" target="_blank"><br>
-          </a>(株)スタンダードマーク　 <strong><span></span></strong><a href="http://www.standard-mark.co.jp/" target="_blank">http://www.standard-mark.co.<WBR>jp/</a><strong><span><br>
-          </span></strong>(株)エフファクトリー 　　<a href="http://www.f-factory.asia/" target="_blank">http://www.f-factory.asia/</a><br>
-          <br>
-          </p>
-          <hr>
+        <br>
+          <font color="#990000">以下の企業様は、NPO日中交流推進機構の法人会員の皆様です。（敬称略）</font><br>
+          <h3>芝大門法律事務所　　　　</h3><br>
+          <!-- <p><br> -->
+          <!-- <br> -->
+          <!-- <font color="#990000">以下の企業様は、NPO日中交流推進機構の法人会員の皆様です。（ご入会順・敬称略）<br> -->
+          <!-- 法人会費の一部はJCSNの活動費に使わせていただいております。</font><br> -->
+          <!-- <br> -->
+          <!-- 宇部興産(株)　　　　　　<font color="#0000cc"><a href="http://www.ube&#45;ind.co.jp/japanese/index.htm">http://www.ube&#45;ind.co.jp/japanese/index.htm</a></font>　　<br> -->
+          <!-- 旭興(株)　　　　　　　　<a href="http://www.seko.co.jp/">http://www.seko.co.jp/</a>　　　<br> -->
+          <!-- 芝大門法律事務所　　　　<br> -->
+          <!-- 大建工業(株)　　　　　　 <a href="http://www.daiken.jp/">http://www.daiken.jp/</a>　　　<br> -->
+          <!-- 東リ(株)　　　 　　　　　<a href="http://www.toli.co.jp/">http://www.toli.co.jp/</a>　　　　　　　　　<br> -->
+          <!-- (株)SHY 　　　　　　　　<a href="http://www.koizumi&#45;lt.co.jp/index.html">http://www.koizumi&#45;lt.co.jp/index.html</a><br> -->
+          <!-- (株)アイデック 　　　　　<a href="http://www.aidec.jp/main.jsp">http://www.aidec.jp/main.jsp</a><br> -->
+          <!-- 旭中部資材(株)　　　　　 <a href="http://www.asachunet.co.jp/" target="_blank">http://www.asachunet.co.jp/</a><a href="http://www.toazu.co.jp/" target="_blank"><br> -->
+          <!-- </a>(株)スタンダードマーク　 <strong><span></span></strong><a href="http://www.standard&#45;mark.co.jp/" target="_blank">http://www.standard&#45;mark.co.<WBR>jp/</a><strong><span><br> -->
+          <!-- </span></strong>(株)エフファクトリー 　　<a href="http://www.f&#45;factory.asia/" target="_blank">http://www.f&#45;factory.asia/</a><br> -->
+          <!-- <br> -->
+          <!-- </p> -->
+          <!-- <hr> -->
           <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
         </div>
         <!-- report end -->
