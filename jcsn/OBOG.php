@@ -94,6 +94,47 @@
               </tr>
             </tbody>
           </table>
+          <br>
+          <br>
+          <div id="profile-news">
+            </b></font></h3>
+              <font size="+2" color="#801611" style="font-size : 150%;"><b>【2015年度役員】</font>　<font size="+0" color="#990000">2015年4月現在</font>　</b>　　　　　　
+              <table border="1">
+              <tbody>
+                <tr>
+                  <td>代表　　</td>
+                  <td>　澤田　恵一　</td>
+                  <td>　慶応義塾大学　法学部2014年卒</td>
+                </tr>
+                <tr>
+                  <td>副代表</td>
+                  <td>　津久井裕二郎</td>
+                  <td>　慶応義塾大学　法学部2014年卒</td>
+                </tr>
+                <tr>
+                  <td>広報</td>
+                  <td>　寺田　かおり</td>
+                  <td>　早稲田大学　　人文科学学部2015年卒</td>
+                </tr>
+                <tr>
+                  <td>総務会計</td>
+                  <td>　引本　愛子</td>
+                  <td>　独協大学　　　外国語学部2015年卒</td>
+                </tr>
+              </tbody>
+            </table>
+        </div>
+        <br><br>
+              <font size="+2" color="#801611" style="font-size : 150%;"><b>【会員数】</b></font><br>                   
+                <font size="+0.5">
+                　　第一期（2014年卒）　 8名<br>
+                　　第二期（2015年卒）　13名<br></font>
+
+        <br><br>
+
+
+
+
           <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
         </div>
         <!-- profile end -->
