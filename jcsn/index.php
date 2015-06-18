@@ -84,14 +84,53 @@
         <div id="toppage">
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
-          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　第三回上海杭州交流会の募集を終了しました。たくさんの応募ありがとうございました。<br>
+          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　第三回上海杭州交流会のキックオフミーティングが行われました。<br>
              　</b></font><br><br>
           <br>
 
 
 
-          <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="report.html"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
+          <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="report.php"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
 
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage37.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　キックオフミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年6月17日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-right">
+    <!--写真-->
+    <img src="page37/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+        6月7日に第3回上海・杭州交流会のキックオフミーティングが行われました。<br>
+        JCSNの紹介や参加者の親睦を深めることを目的としたミーティングを<br>行いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage37.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
 
 <!--ここから-->
 <!--高さ調整　デフォルトは200px-->
@@ -131,7 +170,6 @@
   </span>
 </div>
 <!--ここまで-->
-
 <!--ここから-->
 <!--高さ調整　デフォルトは200px-->
 <div class="article" style="height:200px;">
@@ -284,9 +322,9 @@
 
  
 
-          <b><a href="report.html"><font color="#881813"><span class="en"></span></font></a></b></p>
+          </p>
           <div id="toppage-news">
-            <p><b><font size="+1"><a href="report.html"><font color="#881813" size="+0" style="font-size : 100%;"><span class="en">
+            <p><b><font size="+1"><a href="report.php"><font color="#881813" size="+0" style="font-size : 100%;"><span class="en">
                       ☛過去の活動</span></font></a></font></b><br>
               </p>
             </div>

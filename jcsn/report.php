@@ -36,6 +36,44 @@
       <div id="hpb-main">
 
 
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage37.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　キックオフミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年6月17日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-right">
+    <!--写真-->
+    <img src="page37/pic1.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+        6月7日に第3回上海・杭州交流会のキックオフミーティングが行われました。<br>
+        JCSNの紹介や参加者の親睦を深めることを目的としたミーティングを<br>行いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage37.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
 
 <!--ここから-->
 <!--高さ調整　デフォルトは200px-->
