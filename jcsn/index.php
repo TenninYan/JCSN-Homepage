@@ -112,7 +112,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-right">
     <!--写真-->
-    <img src="page37/pic1.jpg" width="180" border="0" class="report-round">
+    <img src="page37/toppage.jpg" width="180" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
