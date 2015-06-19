@@ -6,7 +6,8 @@
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta name="GENERATOR" content="JustSystems Homepage Builder Version 16.0.10.0 for Windows">
-<title>JCSN</title>
+<meta name="description" content="JCSNは日中の学生によるネットワーク構築と中国の政治経済への知見を深め現状を体感することを目的として活動している団体です。">
+<title>JCSN 日中学生交流ネットワーク</title>
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" href="hpbparts6.css" type="text/css" id="hpbparts">
 <link rel="stylesheet" href="container_9Ba_2c_top.css" type="text/css" id="hpbcontainer">
