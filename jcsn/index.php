@@ -99,6 +99,46 @@
 <div class="article" style="height:200px;">
   <h3 class="report-subject">
     <!--リンク先-->
+    <a href="newpage38.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　第二回ミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年7月5日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-left">
+    <!--写真-->
+    <img src="page38/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+        今回は、班ごとに現地で行うディスカッションのテーマ決めと<br>J-CODE副事務局長 長野啓様によるご講演の二本柱のミーティングを<br>行いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage38.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
+
+
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
     <a href="newpage37.html" class="report">
     <font color="#ff0000">
       <!--題名-->
