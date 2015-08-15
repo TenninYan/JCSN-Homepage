@@ -85,7 +85,7 @@
         <div id="toppage">
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
-          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　第三回上海杭州交流会のキックオフミーティングが行われました。<br>
+          <font color="#000000" size="+1" style="font-size : 117%;"><b>　日本の国際戦略の知識を深めるために、J-CODE副事務局長 長野啓様によるご講演を行いました。<br>
              　</b></font><br><br>
           <br>
 
