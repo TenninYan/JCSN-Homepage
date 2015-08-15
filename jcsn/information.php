@@ -36,8 +36,8 @@
         <div id="information">
           <div id="information-cont" align="left" style="text-align : left;">
             <h3><b><font size="+1">JCSN所在地（NPO日中交流推進機構）</font></b></h3>
-            <hr>
-            　　　　　　　　<img src="access5.png" width="597" height="383" border="0"><br>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6478.781410709851!2d139.7908231967928!3d35.716608565044154!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e9466d4376d%3A0x95ea337107e96443!2z44CSMTExLTAwMzUg5p2x5Lqs6YO95Y-w5p2x5Yy66KW_5rWF6I2J77yT5LiB55uu77yS77yZ4oiS77yR77yZIOa1meaxn-W7uuioreODk-ODq-ODh-OCo-ODs-OCsA!5e0!3m2!1sja!2sjp!4v1439630834708" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <!-- 　　　　　　　　<img src="access5.png" width="597" height="383" border="0"><br> -->
             <br>
             <br>
             　　　　<font size="+1" color="#990000">【アクセス】</font><font color="#000000"> <b><br>
