@@ -85,13 +85,92 @@
         <div id="toppage">
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
-          <font color="#000000" size="+1" style="font-size : 117%;"><b>　日本の国際戦略の知識を深めるために、J-CODE副事務局長 長野啓様によるご講演を行いました。<br>
+          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　　2週連続で講演会を行いました。UNHCRのファティマ・シェリフさんと<br>　　前在中国日本大使の宮本雄二さんから普段聞けない貴重な話を聞けました。
              　</b></font><br><br>
           <br>
 
 
 
           <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="report.php"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
+
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage40.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　第三回ミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年9月27日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-left">
+    <!--写真-->
+    <img src="page40/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+    　今回のミーティングは、班ごとに現地ディスカッションについての話し合いと前在中国日本国大使 宮本雄二様によるご講演の二本柱で行いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage40.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
+
+
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage39.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　講演会
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年9月20日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-right">
+    <!--写真-->
+    <img src="page39/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+  　現在世界的に取り上げられている難民問題に関して長年にわたり支援を行っているUNHCRファティマ・シェリフさんにお話を伺いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage39.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
 
 
 <!--ここから-->

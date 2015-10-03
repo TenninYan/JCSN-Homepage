@@ -35,6 +35,86 @@
       <!-- page title end --><!-- main -->
       <div id="hpb-main">
 
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage40.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　第三回ミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年9月27日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-left">
+    <!--写真-->
+    <img src="page40/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+    　今回のミーティングは、班ごとに現地ディスカッションについての話し合いと前在中国日本国大使 宮本雄二様によるご講演の二本柱で行いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage40.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
+
+
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage39.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　講演会
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年9月20日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-right">
+    <!--写真-->
+    <img src="page39/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+  　現在世界的に取り上げられている難民問題に関して長年にわたり支援を行っているUNHCRファティマ・シェリフさんにお話を伺いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage39.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
+
+
 <!--ここから-->
 <!--高さ調整　デフォルトは200px-->
 <div class="article" style="height:200px;">
