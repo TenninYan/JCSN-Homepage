@@ -44,34 +44,38 @@
       <div>
         <div  class="top_pic" align="center" id="cf1">
           <img src="image/2015toppage1.jpg" name="toppic" width="400px" class="round">
-          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>復旦大学でのシンポジウム後に校庭にて</font></p>
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第三回上海・杭州交流会　2015/11/13~2015/11/17<br>杭州西湖にて</font></p>
         </div>
         <div class="top_pic" align="center" id="cf2">
           <img src="image/2015toppage2.jpg" name="toppic" width="400px" class="round">
-          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>上海の観光名所外灘にて</font></p>
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第三回上海・杭州交流会　2015/11/13~2015/11/17<br>上海外灘にて</font></p>
         </div>
         <div class="top_pic" align="center" id="cf3">
           <img src="image/2015toppage3.jpg" name="toppic" width="400px" class="round">
-          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>浙江大学でのシンポジウム前に図書館にて</font></p>
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第三回上海・杭州交流会　2015/11/13~2015/11/17<br>上海玉湖投資集団にて</font></p>
         </div>
         <div class="top_pic"  align="center" id="cf4">
           <img src="image/2015toppage4.jpg" name="toppic" width="400px" class="round">
-          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>国有企業訪問</font></p>
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第三回上海・杭州交流会　2015/11/13~2015/11/17<br>復旦大学にて</font></p>
         </div>
         <div class="top_pic" align="center" id="cf5">
           <img src="image/2015toppage5.jpg" name="toppic" width="400px" class="round">
-          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>国有企業の作業現場視察</font></p>
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第三回上海・杭州交流会　2015/11/13~2015/11/17<br>浙江大学の図書館にて</font></p>
         </div>
         <div class="top_pic" align="center" id="cf6">
           <img src="image/2015toppage6.jpg" name="toppic" width="400px" class="round">
-          <p style="clear:both; text-align:center;"><font color="#ffffff">　第二回上海・杭州交流会　2014/11/14~2014/11/18<br>杭州の観光名所西湖にて</font></p>
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第三回上海・杭州交流会　2015/11/13~2015/11/17<br>浙江省烏鎮にて</font></p>
+        </div>
+        <div class="top_pic" align="center" id="cf7">
+          <img src="image/2015toppage7.jpg" name="toppic" width="400px" class="round">
+          <p style="clear:both; text-align:center;"><font color="#ffffff">　第三回上海・杭州交流会　2015/11/13~2015/11/17<br>(株)SONY上海工場にて</font></p>
         </div>
       </div>  
       </div>
       <!-- page title end --><!-- main -->
 
         <script type="text/javascript">
-          var cf = new Crossfader( new Array('cf1','cf2','cf3','cf4','cf5','cf6'), 2000, 2000 );
+          var cf = new Crossfader( new Array('cf1','cf2','cf3','cf4','cf5','cf6','cf7'), 2000, 2000 );
           // var cf = new Crossfader( new Array('cf1','cf2','cf3','cf4','cf5','cf6'), 200, 200 );
         </script>  
 
