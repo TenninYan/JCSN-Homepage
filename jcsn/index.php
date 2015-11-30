@@ -86,13 +86,12 @@
       
       <div id="hpb-main">
         <!-- toppage -->
-        <div id="toppage">
+        <div id="toppage"> 
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
           <font color="#000000" size="+1" style="font-size : 117%;"><b>　　　2週連続で講演会を行いました。UNHCRのファティマ・シェリフさんと<br>　　元在中国日本大使の宮本雄二さんから普段聞けない貴重な話を聞けました。
              　</b></font><br><br>
           <br>
-
 
 
           <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="report.php"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
@@ -294,156 +293,6 @@
   </span>
 </div>
 <!--ここまで-->
-<!--ここから-->
-<!--高さ調整　デフォルトは200px-->
-<div class="article" style="height:200px;">
-  <h3 class="report-subject">
-    <!--リンク先-->
-    <a href="newpage35.html" class="report">
-    <font color="#ff0000">
-      <!--題名-->
-      JCSN　第二回 上海・杭州交流会
-      </font>
-    </a>
-  </h3>
-  <!--日付-->
-  <h3 class="report-date">
-    2014年11月14日~18日
-  </h3>
-  <!--写真を左右どちらに寄せるか-->
-  <span class="info-photo-right">
-    <!--写真-->
-    <img src="page35/toppage.jpg" width="180" border="0" class="report-round">
-  </span>
-  <!--内容-->
-  <span class="report-text" style="height:120px">
-    <p>
-      <b><font face="メイリオ">
-        11月14から18日の４泊５日の日程で上海と杭州に行き交流会を開きました。<br>
-        復旦大学や浙江大学でシンポジウム開き・現地の学生と社会問題・経済問題などを討論した他、
-        国有企業の視察や経済特区の視察を行いました。<br>
-
-      </font></b>
-      <!--リンク先-->
-      <a href="newpage35.html">
-        ☛詳細レポート 
-      </a> 
-
-    </p>
-  </span>
-</div>
-<!--ここまで-->
-
-<!--ここから-->
-<!--高さ調整　デフォルトは200px-->
-<div class="article" style="height:200px;">
-  <h3 class="report-subject">
-    <!--リンク先-->
-    <a href="newpage33.html" class="report">
-    <font color="#ff0000">
-      <!--題名-->
-      JCSN　上海・杭州交流会　第4回ミーティング
-      </font>
-    </a>
-  </h3>
-  <!--日付-->
-  <h3 class="report-date">
-    2014年10月13日
-  </h3>
-  <!--写真を左右どちらに寄せるか-->
-  <span class="info-photo-left">
-    <!--写真-->
-    <img src="20141013.jpg" width="180" border="0" class="report-round">
-  </span>
-  <!--内容-->
-  <span class="report-text" style="height:120px">
-    <p>
-      <b><font face="メイリオ">
-          ● 10月13日にJCSN第4回ミーティングが開催されました。<br>
-          中国側での参加者の募集も始まり、来月は上海・杭州交流会になります。今回は主に各ディスカッショングループに分かれて当日のディスカッションの内容を決めたり、リサーチを行いました。<br>
-          また、現地での視察や観光についても話しました。
-</font></b>
-      <br>
-      <!--リンク先-->
-      <a href="newpage33.html">
-        ☛詳細レポート 
-      </a> 
-
-    </p>
-  </span>
-</div>
-<!--ここまで-->
-
-<!--ここから-->
-<!--高さ調整　デフォルトは200px-->
-<div class="article" style="height:175px;">
-  <h3 class="report-subject">
-    <!--リンク先-->
-    <a href="newpage32.html" class="report">
-      <!--題名-->
-      JCSN&nbspプログラム&nbsp(株)フォルム様とのディスカッション
-
-    </a>
-  </h3>
-  <!--日付-->
-  <h3 class="report-date">
-    2014年10月11日
-  </h3>
-  <!--写真を左右どちらに寄せるか-->
-  <span class="info-photo-right">
-    <!--写真-->
-    <img src="20141011-1.jpg" width="180" border="0" class="report-round">
-  </span>
-  <!--内容-->
-  <span class="report-text" style="height:120px">
-    <p>
-      <b><font face="メイリオ">
-          ● 10月11日にJCSNプログラムが開催されました。<br>
-今回のJCSNプログラムでは、協賛いただいている株式会社フォルムの担当者の方から自社の製品に関する説明をしていただき、それに関するケーススタディをしました。     </font></b>
-      <br>
-      <!--リンク先-->
-      <a href="newpage32.html">
-        ☛詳細レポート 
-      </a> 
-    </p>
-  </span>
-</div>
-<!--ここまで-->
-
-
-<!--高さ調整　デフォルトは200px-->
-<div class="article" style="height:200px;">
-  <h3 class="report-subject">
-    <!--リンク先-->
-    <a href="newpage34.html" class="report">
-      <!--題名-->
-      JCSN&nbsp第二回&nbsp日中大学生×社会人交流プログラム
-    </a>
-  </h3>
-  <h3 class="report-date">
-    2014年9月6日
-  </h3>
-  <!--写真を左右どちらに寄せるか-->
-  <span class="info-photo-left">
-    <!--写真-->
-    <img src="20140906-1.jpg" width="180" border="0" class="report-round">
-  </span>
-  <!--内容-->
-  <span class="report-text" style="height:120px">
-    <p>
-      <b><font face="メイリオ">
-          ●9/6の第二回&nbsp日中大学生×社会人交流プログラムでは大手学習塾閉鎖の例を用いて分析を行なったり、浄水器のマーケティング方法に関して参加者の皆さんが各々考えてきてくれた意見を交換しました。
-      </font></b>
-      <br>
-      <!--リンク先-->
-      <a href="newpage34.html">
-        ☛詳細レポート 
-      </a> 
-    </p>
-  </span>
-</div>
-
-
  
 
           </p>
