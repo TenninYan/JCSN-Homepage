@@ -89,7 +89,7 @@
         <div id="toppage"> 
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
-          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　　2週連続で講演会を行いました。UNHCRのファティマ・シェリフさんと<br>　　元在中国日本大使の宮本雄二さんから普段聞けない貴重な話を聞けました。
+          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　　4泊5日の日程で学生17名で上海と杭州に行ってきました。
              　</b></font><br><br>
           <br>
 
@@ -97,6 +97,117 @@
           <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="report.php"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
 
 
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage43.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年11月13日~17日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-right">
+    <!--写真-->
+    <img src="page43/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+4泊5日の日程で、上海と杭州に行ってきました。<br>
+復旦大学・浙江大学の学生との交流、中国の民営の投資会社やソニーの工場の<br>視察をしました。<br>
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage43.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage42.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　第五回ミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年11月8日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-left">
+    <!--写真-->
+    <img src="page42/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+    　交流会前最後のミーティングをしました。渡航前の最終確認などをしました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage42.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage41.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　第四回ミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年10月18日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-right">
+    <!--写真-->
+    <img src="page41/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+    　今回のミーティングは、各自調べた中国の現状等の共有を行った後にとアーティストの塩澤文男さんの講演を行いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage41.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
 <!--ここから-->
 <!--高さ調整　デフォルトは200px-->
 <div class="article" style="height:200px;">

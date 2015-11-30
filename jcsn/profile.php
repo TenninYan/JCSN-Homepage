@@ -217,6 +217,40 @@
           </div>
           <br>
           <hr>
+          <div style="float:left;" ><font size="+1" color="#801611"><b>【第三回交流会メンバー】 </b></font>　<br>
+              <table border="1">
+              <tbody>
+                <tr>
+                  <td align="left" style="text-align : left;">&nbsp;東京大学</td>
+                    <td align="center" style="text-align : center;">6名</td>
+                    <td>&nbsp;青山学院大学</td>
+                    <td style="text-align : center;" align="center">1名</td>
+                  </tr>
+                <tr>
+                  <td style="text-align : left;" align="left">&nbsp;早稲田大学</td>
+                  <td>4名</td>
+                  <td style="text-align : left;" align="left">&nbsp;中央大学</td>
+                    <td style="text-align : center;" align="center">1名</td>
+                  </tr>
+                <tr>
+                  <td style="text-align : left;" align="left">&nbsp;慶応義塾大学</td>
+                  <td style="text-align : center;" align="center">3名</td>
+                  <td style="text-align : left;" align="left">茨城大学</td>
+                  <td style="text-align : center;" align="center">1名</td>
+                </tr>
+                <tr>
+                  <td style="text-align : left;" align="left">&nbsp;津田塾大学</td>
+                    <td align="center">1名</td>
+                    <td style="text-align : left;" align="left">&nbsp;計</td>
+                  <td>&nbsp;17名</td>
+                </tr>
+                </tbody>
+            </table>
+          </div>
+
+
+
+
           <div id="pagetop" style="clear:both;"><a href="#hpb-container">このページの先頭へ</a></div>
         </div>
         <!-- profile end -->
