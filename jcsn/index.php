@@ -38,7 +38,7 @@
       <div id="hpb-title" class="hpb-top-image">
         <!-- <h2 style="background&#45;image : url(top_mainimg.png);">JCSN</h2> -->
         <!--  -->
-        <div style="height:176px; width:300px; background:black; padding-top:80px; float:left;" align="center"><font size="+0.5" color="#ffffff">　JCSNは、<br>日中の学生によるネットワーク構築と中国の政治経済への知見を深め、<br>現状を体感することを目的として活動しています。</font>
+        <div style="height:176px; width:300px; background:black; padding-top:80px; float:left;" align="center"><font size="+0.5" color="#ffffff">　JCSNは、<br>日中の学生によるネットワーク構築と<br>中国の政治経済への知見を深め、<br>現状を体感することを目的として<br>活動しています。</font>
         </div>
 
       <div>
@@ -160,8 +160,8 @@
   <span class="report-text" style="height:120px">
     <p>
       <b><font face="メイリオ">
-    　交流会前最後のミーティングをしました。渡航前の最終調整などをしました。<br>
-   　 上海と杭州に行くのが楽しみです。<br>
+    交流会前最後のミーティングをしました。渡航前の最終調整などをしました。<br>
+    上海と杭州に行くのが楽しみです。<br>
 
       </font></b>
       <!--リンク先-->

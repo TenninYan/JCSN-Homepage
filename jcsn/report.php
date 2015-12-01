@@ -61,8 +61,8 @@
   <span class="report-text" style="height:120px">
     <p>
       <b><font face="メイリオ">
-4泊5日の日程で、上海と杭州に行ってきました。<br>
-復旦大学・浙江大学の学生との交流、中国の民営の投資会社やソニーの工場の<br>視察をしました。<br>
+11月13日から17日の4泊5日の日程で、上海と杭州で交流会を開催しました。<br>
+復旦大学・浙江大学でジンポジュウムを開催して現地の大学生と交流した他、<br>中国の民営の投資会社やソニーの工場の視察をしました。<br>
       </font></b>
       <!--リンク先-->
       <a href="newpage43.html">
@@ -98,7 +98,8 @@
   <span class="report-text" style="height:120px">
     <p>
       <b><font face="メイリオ">
-    　交流会前最後のミーティングをしました。渡航前の最終確認などをしました。<br>
+    交流会前最後のミーティングをしました。渡航前の最終調整などをしました。<br>
+    上海と杭州に行くのが楽しみです。<br>
 
       </font></b>
       <!--リンク先-->
@@ -135,48 +136,11 @@
   <span class="report-text" style="height:120px">
     <p>
       <b><font face="メイリオ">
-    　今回のミーティングは、各自調べた中国の現状等の共有を行った後にとアーティストの塩澤文男さんの講演を行いました。<br>
+    　今回のミーティングは、各自調べた中国の現状等の共有を行った後に<br>アーティストの塩澤文男さんの講演を行いました。<br>
 
       </font></b>
       <!--リンク先-->
       <a href="newpage41.html">
-        ☛詳細レポート 
-      </a> 
-
-    </p>
-  </span>
-</div>
-<!--ここまで-->
-<!--ここから-->
-<!--高さ調整　デフォルトは200px-->
-<div class="article" style="height:200px;">
-  <h3 class="report-subject">
-    <!--リンク先-->
-    <a href="newpage40.html" class="report">
-    <font color="#ff0000">
-      <!--題名-->
-      JCSN　第三回上海杭州交流会　第三回ミーティング
-      </font>
-    </a>
-  </h3>
-  <!--日付-->
-  <h3 class="report-date">
-    2015年9月27日
-  </h3>
-  <!--写真を左右どちらに寄せるか-->
-  <span class="info-photo-left">
-    <!--写真-->
-    <img src="page40/toppage.jpg" width="180" border="0" class="report-round">
-  </span>
-  <!--内容-->
-  <span class="report-text" style="height:120px">
-    <p>
-      <b><font face="メイリオ">
-    　今回のミーティングは、班ごとに現地ディスカッションについての話し合いと元在中国日本国大使 宮本雄二様によるご講演の二本柱で行いました。<br>
-
-      </font></b>
-      <!--リンク先-->
-      <a href="newpage40.html">
         ☛詳細レポート 
       </a> 
 
