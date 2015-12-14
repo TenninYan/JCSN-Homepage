@@ -89,14 +89,55 @@
         <div id="toppage"> 
           <p class="large"><br>
           <font size="+1" color="#990000">【新着情報】</font><br><br>
-          <font color="#000000" size="+1" style="font-size : 117%;"><b>　　　11月13日から17日の4泊5日の日程で上海と杭州で交流会を開催しました。<br>
- 　　　復旦大学・浙江大学でジンポジュウムを開催して現地の大学生と交流した他、<br>　　　中国の民営の投資会社やソニーの工場の視察をしました。<br>
+          <font color="#000000" size="+1" style="font-size : 117%;"><b>
+　　　12月13日に第三回上海杭州交流会の活動報告会を行いました。<br>
+　　　支援して頂いてる方々やOB・OGに今年の活動を報告する他、前上海総領事の小原雅博<br>
+　　　東京大学法学部教授に政治と経済などを含めた日中関係について講演して頂きました。<br>
              　</b></font><br><br>
           <br>
 
 
           <b><font size="+1" color="#881813">【最近の活動情報】　　</font><a href="report.php"><font size="+1" color="#881813"><span class="en"></span></font><font color="#881813" size="+1" style="font-size : 117%;"><span class="en">☛過去の活動</span></font></a></b></p>
 
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage44.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　報告会
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年12月13日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-left">
+    <!--写真-->
+    <img src="page44/toppage.jpg" width="200" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+　12/13に第三回交流会の最後のイベントである報告会が行われました。<br>
+　支援して頂いてる方々やOB・OGに今年の活動を報告する他、前上海総領事<br>　の小原雅博・東京大学法学部教授に政治と経済などを含めた日中関係に<br>　ついて講演して頂きました。<br>
+<!-- 講演をして頂いた小原雅博・東京大学法学部教授の他、支援をして頂いてる方々やOB・OGに今年の活動を紹介しました。<br> -->
+      </font></b>
+　
+      <!--リンク先-->
+      <a href="newpage44.html">
+        ☛詳細レポート 
+      </a> 
+    </p>
+  </span>
+</div>
+<!--ここまで-->
 
 <!--ここから-->
 <!--高さ調整　デフォルトは200px-->
@@ -117,7 +158,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-right">
     <!--写真-->
-    <img src="page43/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page43/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
@@ -154,7 +195,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-left">
     <!--写真-->
-    <img src="page42/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page42/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
@@ -192,7 +233,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-right">
     <!--写真-->
-    <img src="page41/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page41/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
@@ -210,6 +251,7 @@
   </span>
 </div>
 <!--ここまで-->
+
 <!--ここから-->
 <!--高さ調整　デフォルトは200px-->
 <div class="article" style="height:200px;">
@@ -229,7 +271,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-left">
     <!--写真-->
-    <img src="page40/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page40/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
@@ -269,7 +311,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-right">
     <!--写真-->
-    <img src="page39/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page39/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
@@ -308,7 +350,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-left">
     <!--写真-->
-    <img src="page38/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page38/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
@@ -348,7 +390,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-right">
     <!--写真-->
-    <img src="page37/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page37/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">
@@ -387,7 +429,7 @@
   <!--写真を左右どちらに寄せるか-->
   <span class="info-photo-left">
     <!--写真-->
-    <img src="page36/toppage.jpg" width="180" border="0" class="report-round">
+    <img src="page36/toppage.jpg" width="200" border="0" class="report-round">
   </span>
   <!--内容-->
   <span class="report-text" style="height:120px">

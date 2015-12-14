@@ -41,6 +41,46 @@
 <div class="article" style="height:200px;">
   <h3 class="report-subject">
     <!--リンク先-->
+    <a href="newpage44.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　報告会
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年12月13日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-left">
+    <!--写真-->
+    <img src="page44/toppage.jpg" width="200" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+　12/13に第三回交流会の最後のイベントである報告会が行われました。<br>
+　支援して頂いてる方々やOB・OGに今年の活動を報告する他、前上海総領事<br>　の小原雅博・東京大学法学部教授に政治と経済などを含めた日中関係に<br>　ついて講演して頂きました。<br>
+<!-- 講演をして頂いた小原雅博・東京大学法学部教授の他、支援をして頂いてる方々やOB・OGに今年の活動を紹介しました。<br> -->
+      </font></b>
+　
+      <!--リンク先-->
+      <a href="newpage44.html">
+        ☛詳細レポート 
+      </a> 
+    </p>
+  </span>
+</div>
+<!--ここまで-->
+
+
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
     <a href="newpage43.html" class="report">
     <font color="#ff0000">
       <!--題名-->
@@ -149,6 +189,43 @@
 </div>
 <!--ここまで-->
 
+<!--ここから-->
+<!--高さ調整　デフォルトは200px-->
+<div class="article" style="height:200px;">
+  <h3 class="report-subject">
+    <!--リンク先-->
+    <a href="newpage40.html" class="report">
+    <font color="#ff0000">
+      <!--題名-->
+      JCSN　第三回上海杭州交流会　第三回ミーティング
+      </font>
+    </a>
+  </h3>
+  <!--日付-->
+  <h3 class="report-date">
+    2015年9月27日
+  </h3>
+  <!--写真を左右どちらに寄せるか-->
+  <span class="info-photo-left">
+    <!--写真-->
+    <img src="page40/toppage.jpg" width="180" border="0" class="report-round">
+  </span>
+  <!--内容-->
+  <span class="report-text" style="height:120px">
+    <p>
+      <b><font face="メイリオ">
+    　今回のミーティングは、班ごとに現地ディスカッションについての話し合いと元在中国日本国大使 宮本雄二様によるご講演の二本柱で行いました。<br>
+
+      </font></b>
+      <!--リンク先-->
+      <a href="newpage40.html">
+        ☛詳細レポート 
+      </a> 
+
+    </p>
+  </span>
+</div>
+<!--ここまで-->
 
 
 <!--ここから-->
