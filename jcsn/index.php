@@ -410,46 +410,6 @@
 </div>
 <!--ここまで-->
 
-<!--ここから-->
-<!--高さ調整　デフォルトは200px-->
-<div class="article" style="height:200px;">
-  <h3 class="report-subject">
-    <!--リンク先-->
-    <a href="newpage36.html" class="report">
-    <font color="#ff0000">
-      <!--題名-->
-      JCSN　第四回 頑張れ福島！頑張れ日中
-      </font>
-    </a>
-  </h3>
-  <!--日付-->
-  <h3 class="report-date">
-    2015年3月1日~4日
-  </h3>
-  <!--写真を左右どちらに寄せるか-->
-  <span class="info-photo-left">
-    <!--写真-->
-    <img src="page36/toppage.jpg" width="200" border="0" class="report-round">
-  </span>
-  <!--内容-->
-  <span class="report-text" style="height:120px">
-    <p>
-      <b><font face="メイリオ">
-        3月1から4日は中国の复旦・浙江大学からの訪日団38名を受け入れ<br>
-        築地・浅草・秋葉原などを一緒に観光し、東京大学で交流会を開きました。<br>
-
-      </font></b>
-      <!--リンク先-->
-      <a href="newpage36.html">
-        ☛詳細レポート 
-      </a> 
-
-    </p>
-  </span>
-</div>
-<!--ここまで-->
- 
-
           </p>
           <div id="toppage-news">
             <p><b><font size="+1"><a href="report.php"><font color="#881813" size="+0" style="font-size : 100%;"><span class="en">
