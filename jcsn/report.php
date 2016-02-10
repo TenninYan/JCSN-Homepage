@@ -757,101 +757,102 @@
           また、勉強会後には参加者間で「第2回勉強会」を７月に開催することについての話し合いも進み、次回の活動も楽しみです！！<a href="newpage9.html"><font color="#000000">☛</font><font color="#e4544e">詳細レポート</font></a><br>
 
 
-          <!-- <h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/newpage7.html" class="report">第四回日中学生交流会～餃子パーティー～</a></h3><h3 class="report&#45;date">2013年４月27日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/newpage7.html"><img src="b.jpg" width="227" height="169" alt="活動報告写真" class="left"></a> -->
-          <!-- <p><br> -->
-          <!--  -->
-          <!-- <font face="メイリオ">駒場ロッジA棟多目的ホールに３４名の日中の学生が集まり、<br> -->
-          <!--   JCSN初の料理系イベント「餃子パーティー」を開催しました！<br> -->
-          <!--   餃子作り未経験の担当者は多少不安もありましたが、参加者の助けもあり、予想以上に盛り上がり、パーティーは大盛況！！<o:p></o:p></font><br> -->
-          <!-- <font face="メイリオ">餃子を作っているときは、どこのグループからも笑い声が聞こえ餃子作りを通した日中交流の素晴らしさを実感しました。また、中国語で会話したり、大学生活について意見交換したり、日中両国について話したりと、非常に有意義な時間でした。<o:p></o:p></font><font face="メイリオ"><o:p></o:p></font><font face="メイリオ"><a -->
-          <!--     name="_GoBack"></a></font><font face="メイリオ"><o:p></o:p></font><br> -->
-          <!-- ☛<a href="http://www.npoprjc.jp/jcsn/newpage7.html">詳細レポート</a><br><br> -->
-          <!--  -->
-          <!--  -->
-          <!-- <h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/newpage6.html" class="report">JCSN浅草・春の散策ツアー</a></h3><h3 class="report&#45;date">2013年3月27日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/newpage6.html"><img src="SANY00021.jpg" width="227" height="169" alt="活動報告写真" class="right"></a> -->
-          <!-- <p><br> -->
-          <!-- ＮＰＯ同ビル６階会議室にて、「JCSN浅草・春の散策ツアー」が行われました。<br> -->
-          <!-- 今回のイベントはJCSNが今年で３年目を迎えますので、記念イベントとしてNPO主催で開催しました。<font face="メイリオ"> 桜満開の浅草にて、日本人大学生と中国人留学生がグループ毎にコースを自由に提案しながら日中学生交流を楽しんでいただくというユニークな内容でした。<br> -->
-          <!--   散策後のグループによる報告会や交流タイムなど…楽しく充実した時間を過ごしました。<o:p></o:p></font><br> -->
-          <!-- ☛<a href="http://www.npoprjc.jp/jcsn/newpage6.html">詳細レポート</a><br>                                           -->
-          <!-- <br> -->
-          <!--  -->
-          <!--  -->
-          <!-- <h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/act7.html" class="report">第三回日中学生交流会</a></h3><h3 class="report&#45;date">2012年12月22日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act7.html"><img src="SANY00082.JPG" width="227" height="169" alt="活動報告写真" class="left"></a> -->
-          <!-- <p><br> -->
-          <!-- ＮＰＯ同ビル６階にて、名称を改め『第三回日中学生交流会』が行われました。<br> -->
-          <!-- 今回の交流会は「言語の学習も出来かつ楽しめる」を軸に<span style='font&#45;size:10.5pt;font&#45;family:"ＭＳ 明朝","serif"; -->
-          <!--   mso&#45;ascii&#45;font&#45;family:Century;mso&#45;hansi&#45;font&#45;family:Century;mso&#45;bidi&#45;font&#45;family: -->
-          <!--   "Times New Roman";mso&#45;font&#45;kerning:1.0pt;mso&#45;ansi&#45;language:EN&#45;US;mso&#45;fareast&#45;language: -->
-          <!--   JA;mso&#45;bidi&#45;language:AR&#45;SA'></span>…他己紹介、マンツーレッスン、各テーマに沿ったグループディスカッションと発表、そして新たにビンゴゲームも取り入れました。クリスマスの雰囲気の中、とても楽しい会となりました。これからも皆さんのご要望に応え、様々な角度での日中学生の交流会を企画していきたいと考えています。<br> -->
-          <!-- ぜひ今後の活動にご期待ください！<br> -->
-          <!-- ☛<a href="http://www.npoprjc.jp/jcsn/act7.html">詳細レポート</a><br> -->
-          <!-- <br> -->
-          <!-- <br> -->
-          <!-- </p> -->
-          <!--  -->
-          <!--  -->
-          <!-- <h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/act6.html" class="report">第二回語学交流会</a></h3><h3 class="report&#45;date">2012年11月10日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act6.html"><img src="SANY00411.jpg" width="148" height="140" alt="活動報告写真" class="right"></a> -->
-          <!-- <p> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act6.html"><img src="SANY0036.JPG" width="148" height="140" alt="活動報告写真" class="right"></a>  -->
-          <!-- <br> -->
-          <!-- ISI国際学院にて『第二回語学交流会』が行われました。<BR> -->
-          <!-- 前回の活動をさらに充実したものに…ということで、　<br> -->
-          <!-- マンツー形式やグループに分かれてテーマ別議論を取り入れ、終止会話（中国語・日本語）の絶えない楽しくにぎやかな活動となりました。<BR> -->
-          <!-- 皆さん、『第三回語学交流会』を是非お楽しみに！<br> -->
-          <!-- ☛<a href="http://www.npoprjc.jp/jcsn/act6.html">詳細レポート</a><br><br> -->
-          <!--  -->
-          <!--  -->
-          <!-- <h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/act5.html" class="report">第一回シンポジウム　～日中ビジネスを学ぶ～</a></h3><h3 class="report&#45;date">2012年6月16日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act5.html"><img src="SANY0003.JPG" width="250"  alt="活動報告写真" class="left"></a> -->
-          <!-- <p><br> -->
-          <!-- 日中ビジネスに関連して、第一線でご活躍するビジネスマンの方をお招きして、日中間のビジネスの秘訣に迫りました。<br> -->
-          <!-- 就活生にも有力な情報があり、とても楽しい会になりました。<br> -->
-          <!-- <br> -->
-          <!-- ご協力いただきました皆様、感謝申し上げます。<a href="http://www.npoprjc.jp/jcsn/act5.html">☛詳細レポート</a><br> -->
-          <!-- <br> -->
-          <!-- </p> -->
-          <!-- <hr> -->
-          <!--  -->
-          <!--  -->
-          <!-- <h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/act4.html" class="report">第一回語学交流会</a></h3><h3 class="report&#45;date">2012年5月31日</h3> -->
-          <!-- <p><a href="http://www.npoprjc.jp/jcsn/act4.html"><img src="jcsn.rogo.png" width="214" height="130" alt="活動報告写真" class="right"></a><br> -->
-          <!--  -->
-          <!-- 留学生のみなさん、日本にようこそ。<br> -->
-          <!-- この活動は日本語に自信のない留学生の皆様、並びに中国語の会話を習得したい日本人学生を対象に行っております。<br> -->
-          <!-- もちろん、日中の学生の交流という意味もありますので、是非一度ご参加ください。☛<a href="http://www.npoprjc.jp/jcsn/act4.html">詳細レポート</a><br> -->
-          <!-- </p><br> -->
-          <!--  -->
-          <!-- <div class="article" style="height:220px;"><h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/act3.html" class="report">お花見交流会</a></h3><h3 class="report&#45;date">2012年3月30日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act3.html"><img src="P1030593.jpg" width="250" height="165" alt="活動報告写真" class="left"></a> -->
-          <!-- <p><br><br> -->
-          <!-- 代々木公園にて交流会を開催しました。今年は桜の開花が遅く大変心配しましたが、唯一鮮やかに咲いていた公園中央の河津桜の下で昼食を挟みレクレーションやビンゴを行い、終始和やかに交流することができました。<br> -->
-          <!-- 参加いただきました皆様、ありがとうございました。<br> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act3.html">☛詳細レポート<br> -->
-          <!-- </a></p></div> -->
-          <!--  -->
-          <!--  -->
-          <!-- <div class="article" style="height:220px;"><h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/act2.html" class="report">福島復興の提言報告会</a></h3><h3 class="report&#45;date">2011年10月20日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act2.html"><img src="P1030119.JPG" width="250" height="165" alt="活動報告写真" class="right"></a> -->
-          <!-- <p><br> -->
-          <!-- 「今、猪苗代町ができること」にとことんこだわり、猪苗町の観光・農業・風評被害について学生・観光客視点からの提言をさせていただきました。<br> -->
-          <!-- 議論は白熱し、役場・町民の方々の本音が飛び交う有意義な報告会になりました。<br> -->
-          <!-- お忙しい中、報告会に参加いただきました町民の皆様、役場の皆様本当にありがとうございました。☛<a href="http://www.npoprjc.jp/jcsn/act2.html">詳細レポート</a> <br> -->
-          <!-- <br></p></div> -->
-          <!--  -->
-          <!--  -->
-          <!-- <div class="article" style="height:220px;"><h3 class="report&#45;subject2"><a href="http://www.npoprjc.jp/jcsn/act1&#45;1.html" class="report">会津サマーボランティア</a></h3><h3 class="report&#45;date">2011年9月5日～9月10日</h3> -->
-          <!-- <a href="http://www.npoprjc.jp/jcsn/act1&#45;1.html"><img src="SANY00321.JPG" width="250" height="165" alt="活動報告写真" class="left"></a> -->
-          <!-- <p><br> -->
-          <!-- 東日本大震災の復興に何か役てるようなことはないか。そんな思いを抱いた学生が、多様な学部から終結しました。<br> -->
-          <!-- 猪苗代は地震による直接の被害は比較的小さかったのですが、『Fukushima』の名のもとにある町が復興・発展していくために何が必要か熱い議論を交わしました。<br> -->
-          <!-- ☛<a href="http://www.npoprjc.jp/jcsn/act1&#45;1.html">詳細レポート</a></p></div> -->
-          <!-- <p><br> -->
-          <!-- </p> -->
+          <h2>以下URL切れ</h2>
+          <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage7.html" class="report">第四回日中学生交流会～餃子パーティー～</a></h3><h3 class="report-date">2013年４月27日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/newpage7.html"><img src="b.jpg" width="227" height="169" alt="活動報告写真" class="left"></a>
+          <p><br>
+
+          <font face="メイリオ">駒場ロッジA棟多目的ホールに３４名の日中の学生が集まり、<br>
+            JCSN初の料理系イベント「餃子パーティー」を開催しました！<br>
+            餃子作り未経験の担当者は多少不安もありましたが、参加者の助けもあり、予想以上に盛り上がり、パーティーは大盛況！！<o:p></o:p></font><br>
+          <font face="メイリオ">餃子を作っているときは、どこのグループからも笑い声が聞こえ餃子作りを通した日中交流の素晴らしさを実感しました。また、中国語で会話したり、大学生活について意見交換したり、日中両国について話したりと、非常に有意義な時間でした。<o:p></o:p></font><font face="メイリオ"><o:p></o:p></font><font face="メイリオ"><a
+              name="_GoBack"></a></font><font face="メイリオ"><o:p></o:p></font><br>
+          ☛<a href="http://www.npoprjc.jp/jcsn/newpage7.html">詳細レポート</a><br><br>
+
+
+          <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/newpage6.html" class="report">JCSN浅草・春の散策ツアー</a></h3><h3 class="report-date">2013年3月27日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/newpage6.html"><img src="SANY00021.jpg" width="227" height="169" alt="活動報告写真" class="right"></a>
+          <p><br>
+          ＮＰＯ同ビル６階会議室にて、「JCSN浅草・春の散策ツアー」が行われました。<br>
+          今回のイベントはJCSNが今年で３年目を迎えますので、記念イベントとしてNPO主催で開催しました。<font face="メイリオ"> 桜満開の浅草にて、日本人大学生と中国人留学生がグループ毎にコースを自由に提案しながら日中学生交流を楽しんでいただくというユニークな内容でした。<br>
+            散策後のグループによる報告会や交流タイムなど…楽しく充実した時間を過ごしました。<o:p></o:p></font><br>
+          ☛<a href="http://www.npoprjc.jp/jcsn/newpage6.html">詳細レポート</a><br>                                          
+          <br>
+
+
+          <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/act7.html" class="report">第三回日中学生交流会</a></h3><h3 class="report-date">2012年12月22日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/act7.html"><img src="SANY00082.JPG" width="227" height="169" alt="活動報告写真" class="left"></a>
+          <p><br>
+          ＮＰＯ同ビル６階にて、名称を改め『第三回日中学生交流会』が行われました。<br>
+          今回の交流会は「言語の学習も出来かつ楽しめる」を軸に<span style='font-size:10.5pt;font-family:"ＭＳ 明朝","serif";
+            mso-ascii-font-family:Century;mso-hansi-font-family:Century;mso-bidi-font-family:
+            "Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+            JA;mso-bidi-language:AR-SA'></span>…他己紹介、マンツーレッスン、各テーマに沿ったグループディスカッションと発表、そして新たにビンゴゲームも取り入れました。クリスマスの雰囲気の中、とても楽しい会となりました。これからも皆さんのご要望に応え、様々な角度での日中学生の交流会を企画していきたいと考えています。<br>
+          ぜひ今後の活動にご期待ください！<br>
+          ☛<a href="http://www.npoprjc.jp/jcsn/act7.html">詳細レポート</a><br>
+          <br>
+          <br>
+          </p>
+
+
+          <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/act6.html" class="report">第二回語学交流会</a></h3><h3 class="report-date">2012年11月10日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/act6.html"><img src="SANY00411.jpg" width="148" height="140" alt="活動報告写真" class="right"></a>
+          <p>
+          <a href="http://www.npoprjc.jp/jcsn/act6.html"><img src="SANY0036.JPG" width="148" height="140" alt="活動報告写真" class="right"></a> 
+          <br>
+          ISI国際学院にて『第二回語学交流会』が行われました。<BR>
+          前回の活動をさらに充実したものに…ということで、　<br>
+          マンツー形式やグループに分かれてテーマ別議論を取り入れ、終止会話（中国語・日本語）の絶えない楽しくにぎやかな活動となりました。<BR>
+          皆さん、『第三回語学交流会』を是非お楽しみに！<br>
+          ☛<a href="http://www.npoprjc.jp/jcsn/act6.html">詳細レポート</a><br><br>
+
+
+          <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/act5.html" class="report">第一回シンポジウム　～日中ビジネスを学ぶ～</a></h3><h3 class="report-date">2012年6月16日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/act5.html"><img src="SANY0003.JPG" width="250"  alt="活動報告写真" class="left"></a>
+          <p><br>
+          日中ビジネスに関連して、第一線でご活躍するビジネスマンの方をお招きして、日中間のビジネスの秘訣に迫りました。<br>
+          就活生にも有力な情報があり、とても楽しい会になりました。<br>
+          <br>
+          ご協力いただきました皆様、感謝申し上げます。<a href="http://www.npoprjc.jp/jcsn/act5.html">☛詳細レポート</a><br>
+          <br>
+          </p>
+          <hr>
+
+
+          <h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/act4.html" class="report">第一回語学交流会</a></h3><h3 class="report-date">2012年5月31日</h3>
+          <p><a href="http://www.npoprjc.jp/jcsn/act4.html"><img src="jcsn.rogo.png" width="214" height="130" alt="活動報告写真" class="right"></a><br>
+
+          留学生のみなさん、日本にようこそ。<br>
+          この活動は日本語に自信のない留学生の皆様、並びに中国語の会話を習得したい日本人学生を対象に行っております。<br>
+          もちろん、日中の学生の交流という意味もありますので、是非一度ご参加ください。☛<a href="http://www.npoprjc.jp/jcsn/act4.html">詳細レポート</a><br>
+          </p><br>
+
+          <div class="article" style="height:220px;"><h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/act3.html" class="report">お花見交流会</a></h3><h3 class="report-date">2012年3月30日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/act3.html"><img src="P1030593.jpg" width="250" height="165" alt="活動報告写真" class="left"></a>
+          <p><br><br>
+          代々木公園にて交流会を開催しました。今年は桜の開花が遅く大変心配しましたが、唯一鮮やかに咲いていた公園中央の河津桜の下で昼食を挟みレクレーションやビンゴを行い、終始和やかに交流することができました。<br>
+          参加いただきました皆様、ありがとうございました。<br>
+          <a href="http://www.npoprjc.jp/jcsn/act3.html">☛詳細レポート<br>
+          </a></p></div>
+
+
+          <div class="article" style="height:220px;"><h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/act2.html" class="report">福島復興の提言報告会</a></h3><h3 class="report-date">2011年10月20日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/act2.html"><img src="P1030119.JPG" width="250" height="165" alt="活動報告写真" class="right"></a>
+          <p><br>
+          「今、猪苗代町ができること」にとことんこだわり、猪苗町の観光・農業・風評被害について学生・観光客視点からの提言をさせていただきました。<br>
+          議論は白熱し、役場・町民の方々の本音が飛び交う有意義な報告会になりました。<br>
+          お忙しい中、報告会に参加いただきました町民の皆様、役場の皆様本当にありがとうございました。☛<a href="http://www.npoprjc.jp/jcsn/act2.html">詳細レポート</a> <br>
+          <br></p></div>
+
+
+          <div class="article" style="height:220px;"><h3 class="report-subject2"><a href="http://www.npoprjc.jp/jcsn/act1-1.html" class="report">会津サマーボランティア</a></h3><h3 class="report-date">2011年9月5日～9月10日</h3>
+          <a href="http://www.npoprjc.jp/jcsn/act1-1.html"><img src="SANY00321.JPG" width="250" height="165" alt="活動報告写真" class="left"></a>
+          <p><br>
+          東日本大震災の復興に何か役てるようなことはないか。そんな思いを抱いた学生が、多様な学部から終結しました。<br>
+          猪苗代は地震による直接の被害は比較的小さかったのですが、『Fukushima』の名のもとにある町が復興・発展していくために何が必要か熱い議論を交わしました。<br>
+          ☛<a href="http://www.npoprjc.jp/jcsn/act1-1.html">詳細レポート</a></p></div>
+          <p><br>
+          </p>
           <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
           <!-- report end -->
         </div>
